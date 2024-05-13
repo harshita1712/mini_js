@@ -1,1 +1,1 @@
-# This is repo is just to enhance JS skills
+# This repo is just to enhance JS skills
